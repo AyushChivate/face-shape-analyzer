@@ -1,0 +1,9 @@
+forhead line p1: (550, 2074.6), forhead line p2: (1442, 2074.6)
+ear line p1: (550, 1191), ear line p2: (1442, 1147)
+jaw line p1: (633, 1413), jaw line p2: (1381, 1390)
+
+
+forehead_line_length - ear_line_length) <= tolerance and\
+            forehead_line_length - jaw_line_length >= tolerance and\
+            ear_line_length - jaw_line_length >= tolerance:
+        print('You have an oval face')

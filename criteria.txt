@@ -1,0 +1,17 @@
+round: (31, 116, 32)
+diamond: (36.38843184000567, 104.53163859430572, 39.07992956568862)
+oblong: (41.90484048467905, 99.53798050252855, 38.557179012792396)
+oval: (38.45293756951164, 106.27292083241834, 35.27414159807003)
+square: (35.81444857031024, 110.8682351392993, 33.31731629039043)
+
+Primary
+Square: Top two lines are similar to bottom line
+Oval: Top two lines are longer than bottom line
+Diamond: Middle line is greater than top and bottom lines
+
+
+Secondary
+Oblong: FL is longer than FW
+Round: FL and FW are similar
+
+[134 308 359 359]
